@@ -15,13 +15,13 @@ public class CarroTest01 {
         carro2.modelo = "SUV";
         carro2.ano = 2022;
 
-        System.out.println("Estamos aqui: ");
+        System.out.println("NOW: ");
         System.out.println(carro1.nome);
         System.out.println(carro1.modelo);
         System.out.println(carro1.ano);
 
         System.out.println("--------------------------------------------");
-        System.out.println("Em breve vamos chegar aqui: ");
+        System.out.println("up up up up: ");
 
         System.out.println(carro2.nome);
         System.out.println(carro2.modelo);
