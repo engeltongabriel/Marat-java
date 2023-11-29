@@ -9,9 +9,10 @@ public class EstudanteTest01 {
         estudante.idade = 21;
         estudante.sexo = 'M';
 
-        System.out.println("estudante = " + estudante.nome);
-        System.out.println("idade = " + estudante.idade);
-        System.out.println("sexo = " + estudante.sexo);
+        System.out.println(estudante.nome);
+        System.out.println(estudante.idade);
+        System.out.println(estudante.sexo);
+        System.out.println(estudante);
 
     }
 }
